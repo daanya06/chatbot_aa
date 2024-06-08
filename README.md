@@ -13,7 +13,7 @@ closed every friday
 
 Website Link: (https://cozy-coffee-cakes-4k13h7d.gamma.site/)
 
-Location: 123 Main Street, Anytown USA
+Location: 123 Jalan Rahmat, Taman Titiwangsa, Shah Alam, Selangor
 
 Phone Number: +60 19-439 5991 
 
