@@ -13,9 +13,13 @@ closed every friday
 
 Website Link: (https://cozy-coffee-cakes-4k13h7d.gamma.site/)
 
+
 Location: 123 Jalan Rahmat, Taman Titiwangsa, Shah Alam, Selangor
 
 Phone Number: +60 19-439 5991 
+
+Order at: 555-555-555
+More Info: info@aacafe.com
 
 Cake flavours: 
 
@@ -91,6 +95,7 @@ Deposit is 80% of the total price
 Do not accept any form of cash 
 Tasting appointment can just come to the place directly 
 Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number. 
+
 
 Other products: 
 Candle (2RM for each candle) 
