@@ -10,7 +10,7 @@ Time open:
 weekdays from 7am to 6pm (Except friday) 
 weekends from 8am to 5pm
 
-Website Link: (https://chocolate-cakes-kijjl6g.gamma.site/) 
+Website Link: (https://gamma.app/docs/Welcome-to-Our-Cafe-mfnp511p57jxbbt?mode=doc)
 
 Location: 123 Main Street, Anytown USA
 
