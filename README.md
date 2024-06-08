@@ -24,6 +24,7 @@ Vanilla (Unavailable)
 Red Velvet (Unavailable) 
 Carrot Cake (Unavailable) 
 Lemon Meringue (Available)
+Vanilla (Available)
 
 Icing flavours:
 
@@ -39,6 +40,7 @@ Espresso (Available)
 Cappuccino (Available)
 Latte (Available)
 Drip Coffee (Available)
+Mocha (Unavailable)
 
 Sizes & Pricing: 
 Round cake 6 inch diameter - 30RM (40RM with icing) 
