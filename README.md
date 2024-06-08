@@ -11,7 +11,7 @@ weekdays from 7am to 6pm (Except friday)
 weekends from 8am to 5pm
 closed every friday 
 
-Website Link: (https://gamma.app/docs/Welcome-to-AA-Cafe-mfnp511p57jxbbt?mode=doc)
+Website Link: (https://cozy-coffee-cakes-4k13h7d.gamma.site/)
 
 Location: 123 Main Street, Anytown USA
 
