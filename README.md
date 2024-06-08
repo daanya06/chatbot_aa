@@ -3,6 +3,7 @@
 Shop information 
 
 Baker: Ms. Daanya (Exquisite 3-star Michelin star bakery chef) 
+Barista: Ms. Mimi
 
 Time open: 
 
